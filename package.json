@@ -1,0 +1,23 @@
+{
+  "name": "Feed-Reader-Testing-Project",
+  "version": "1.0.0",
+  "description": "Jasmine unit tests for Project 7: Feed Reader Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr0857/Feed-Reader-Testing-Project.git"
+  },
+  "author": "Tim Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tr0857/Feed-Reader-Testing-Project/issues"
+  },
+  "homepage": "https://github.com/tr0857/Feed-Reader-Testing-Project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
